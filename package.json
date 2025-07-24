@@ -4,9 +4,9 @@
   "description": "Backend server for FlQween social network",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "npx prisma migrate deploy && node server.js",
     "postinstall": "npx prisma generate",
-    "railway-build": "npx prisma migrate deploy"
+    "prisma": "prisma migrate dev --name init --skip-seed"
   },
   "dependencies": {
     "express": "^4.18.2",
