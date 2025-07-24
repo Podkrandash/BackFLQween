@@ -1,0 +1,32 @@
+# Node
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv
+.env
+
+# Build
+build/
+dist/
+
+# Prisma artifacts
+prisma/dev.db
+prisma/*.sqlite-journal
+prisma/migrations/
+
+# Uploaded files
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db 

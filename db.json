@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": "25c67a0b-f654-47e3-8093-d1ee079557cb",
+      "username": "afaf",
+      "email": "afaf@qwre",
+      "avatar": "",
+      "bio": "",
+      "links": [],
+      "uploads": 0,
+      "followers": 0,
+      "following": 0,
+      "totalLikes": 0
+    },
+    {
+      "id": "a5d89e4c-a5a6-4895-b49f-f6a9b0d6ee7e",
+      "username": "1233333333",
+      "email": "1231231@123",
+      "avatar": "",
+      "bio": "",
+      "links": [],
+      "uploads": 0,
+      "followers": 0,
+      "following": 0,
+      "totalLikes": 0
+    },
+    {
+      "id": "14d187ba-ff9f-43ce-8c66-2791ba039231",
+      "username": "23123",
+      "email": "123@123",
+      "avatar": "",
+      "bio": "",
+      "links": [],
+      "uploads": 0,
+      "followers": 1,
+      "following": 1,
+      "totalLikes": 0,
+      "followersList": [
+        "14d187ba-ff9f-43ce-8c66-2791ba039231"
+      ],
+      "followingList": [
+        "14d187ba-ff9f-43ce-8c66-2791ba039231"
+      ]
+    },
+    {
+      "id": "2abfcf93-bf17-44b1-8a7f-a7078a836162",
+      "username": "123123",
+      "email": "3123@123",
+      "avatar": "",
+      "bio": "",
+      "links": [],
+      "uploads": 0,
+      "followers": 0,
+      "following": 0,
+      "totalLikes": 0
+    },
+    {
+      "id": "bd282a56-32f9-4f5f-9fd5-4c991dc2c3cb",
+      "username": "123123123",
+      "email": "112323@123123",
+      "avatar": "",
+      "bio": "",
+      "links": [],
+      "uploads": 0,
+      "followers": 0,
+      "following": 0,
+      "totalLikes": 0
+    }
+  ],
+  "posts": [],
+  "content": []
+}
