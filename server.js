@@ -17,6 +17,10 @@ app.use(cors());
 app.use(express.json());
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
+app.get('/health', (req, res) => {
+  res.status(200).send('OK');
+});
+
 // Multer setup
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
